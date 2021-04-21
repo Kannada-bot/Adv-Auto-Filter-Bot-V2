@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'ನಮ್ಮ ಬಾಸ್', url="https://t.me/KannadaWarriors"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'ನಮ್ಮ ಬಾಸ್', url="https://t.me/kannadawarriors"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'ನಮ್ಮ ಬಾಸ್', url="https://t.me/KannadaWarriors"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('ನಮ್ಮ ಬಾಸ್', url='https://t.me/KannadaWarriors'),
+        InlineKeyboardButton('ನಮ್ಮ ಚಾನಲ್', url ='https://T.me/KannadaWarriors')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/KannadaWarriors')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
